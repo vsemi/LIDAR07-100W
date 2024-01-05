@@ -11,7 +11,7 @@ Driver and sample code for Single Point Lidar
 
 In ubuntu, make sure the user has read/write permission to the serial port. Otherwise, grant permission:
 
-sudo chmod a+rw <serial port>
+sudo chmod a+rw \<serial port\>
 
 For example:
 
