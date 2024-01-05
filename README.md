@@ -4,7 +4,7 @@ Driver and sample code for Single Point Lidar
 
 # Quick Start:
 
-1. Install Python
+1. Install Python 3
 2. Install pyserial
 
 # Run sample code
@@ -19,4 +19,6 @@ sudo chmod a+rw /dev/ttyUSB0
 
 To run the sample code:
 
-python continuous_measure.py
+python3 single_measure.py
+
+python3 continuous_measure.py
